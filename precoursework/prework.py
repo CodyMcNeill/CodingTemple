@@ -43,7 +43,6 @@ def is_consecutive(a_list):
             status = False
             break
     print(status)
-
 testList = [1,2,3,4,5]
 testList2 = [2,5,8,1,6]
 is_consecutive(testList)
