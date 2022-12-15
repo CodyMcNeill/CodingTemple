@@ -1,0 +1,82 @@
+.img-fluid {
+    width: auto;
+    height: auto;
+    max-width: 103px;
+    max-height: 31px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.card {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+
+#passText {
+    margin-left: 50px;
+    margin-bottom: 5px;
+}
+
+#forgotPassword {
+    text-decoration: none;
+    margin-left: 100px;
+    margin-bottom: 5px;
+}
+
+.needHelp li {
+    list-style-type: none;
+    margin-top: 10px;
+    display: inline;
+  }
+  
+.needHelp:before {
+    content: "\25BA \0020";
+    font-size: 12px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.newToAmazon{
+    margin-top: 30px;
+    display: inline;
+    width: 50%;
+    color: grey;
+    text-decoration: line-through;
+    padding-left: 39.8%;
+
+}
+
+.newToAmazon2{
+    margin-top: 30px;
+    display: inline;
+    width: 50%;
+    color: grey;
+    text-decoration: line-through;
+}
+
+span {
+    margin-top: 30px;
+    width: 50%;
+    color: grey;
+}
+#createAcct {
+   display: block;
+   margin: auto;
+}
+
+hr {
+    margin-top: 5%;
+}
+
+.container ul {
+    width: 100%;
+}
+.container li {
+    display: inline;
+  }
