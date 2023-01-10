@@ -1,0 +1,8 @@
+Brandt's Approach:
+1. Keep the init as simple as possible
+2. Make more functions, and keep functions simple
+3. Once you've broken down the functions, you can build the DRIVER CODE
+4. Driver code can be set to a .run()
+5. From there, incorporate everything else to the init statement
+6. Look at everything from the user perspective
+7. 
